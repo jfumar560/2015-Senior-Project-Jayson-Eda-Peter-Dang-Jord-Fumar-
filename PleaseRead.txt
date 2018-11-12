@@ -1,0 +1,17 @@
+This is from our Electrical Engineering Senior Project at SJSU.
+We made a Smart Shower which conserves water in many different ways.
+
+First, we recirculate the water back to the heater 
+if the temperature is cold.
+
+Second, we have a display that tells the user how much water is consumed.
+
+Third, we have voice control because why the fuck not.
+
+Fourth, we have awesome cool LED light gauge that indicates the temperature level.
+
+Code practice can be better. Will refactor when bored.
+
+More soon.
+
+-Jord Fumar
